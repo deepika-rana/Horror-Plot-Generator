@@ -7,6 +7,6 @@ The input used to train this model was from a public dataset on kaggle that has 
 
 This network is based off of Andrej Karpathy's post on RNNs and implementation in Torch.
 
-# Live Demo!
+# Demo!
 ![preview](preview.gif)
 
