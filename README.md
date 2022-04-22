@@ -1,5 +1,4 @@
 # Horror-Plot-Generator 
-https://dscmait.xyz/horror-plot-intro/
 
 A character-level LSTM is constructed with PyTorch to generate a horror plot on the ocassion of Halloween. The network will train character by character on some text, then generate new text character by character.
 
